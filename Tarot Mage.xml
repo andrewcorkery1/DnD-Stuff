@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compendium version="5">
+    <class>
+        <name>Tarot Mage</name>
+        <hd>6</hd>
+        <proficiency>Intelligence, Charisma</proficiency>
+        <spellAbility>Intelligence</spellAbility>
+        <autolevel level="1">
+            <feature>
+                <name>Proficiencies</name>
+                <text>Armor: None</text>
+                <text>Weapons: daggers, darts, slings, quarterstaffs, light crossbows</text>
+                <text>Tools: Tarot Cards</text>
+                <text>Saving Throws: Intelligence, Charisma</text> 
+                <text>Skills: Choose two from Arcana, Deception, History, Intimidation, Investigation, Performance, Persuasion</text>
+            </feature>
+            <feature>
+                <name>Starting Tarot Mage</name>
+                <text>As a 1st-level Tarot Mage, you begin play with 6+your Constituation modifier hitpoints</text>
+                <text>You are proficient with the following items, in addition to any proficiences by your race or background</text>
+                <text>• Armor: None</text>
+                <text>• Weapons: daggers, darts, slings, quarterstaffs, light crossbows</text>
+                <text>• Tools: Tarot Cards</text>
+                <text>• Saving Throws: Intelligence, Charisma</text> 
+                <text>• Skills: Choose two from Arcana, Deception, History, Intimidation, Investigation, Performance, Persuasion</text>    
+                <text>You start with the following items, plus anything provided by your background</text>
+                <text />
+                <text>• (a) a quarterstaff or (b) a daggers</text>
+                <text>• (a) a Scholar's pack or (b) an Entertainer's pack</text>
+                <text>• A Tarot Deck</text>
+                <text />
+                <text>Alternatively you may start with 5d4x10 gp and choose your own equipment</text>
+            </feature>
+        </autolevel>
+
+        <autolevel level="1">
+            <feature>
+                <name>Spellcasting</name>
+                <text>As a praticing arcane cartomancer, you have a deck of tarot cards, that when combined with your knowledge and usage of the arcane forces can cast spells that will aid you on your travels</text>
+                <text />
+                <text>Minor Arcana and Casting Spells:</text>
+                <text>  The Tarot Mage table shows how many spell slots you have to cast your tarot mage spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest</text>
+                <text>In order to cast spells, the tarot mage must have their tarot cards, both Minor Arcana and Major Arcana, through which to focus arcane power. The Tarot Mage does not need to specify individual spells per day. As long as a tarot mage has a certain tarot card and they are of the requisite level, the mage can cast any spell associated with the card from the Tarot Mage spell list</text>
+                <text />
+                <text>Spell Mimic</text>
+                <text>  In addition, a tarot mage may cast spells from the wizard spell list using the appropriate Minor Arcana. These spells utilize the same spell slots as the normal Tarot Mage spells.</text>
+                <text>Each suit of the Minor Arcana corresponds to two of the arcane schools, with the number on the card referring to the maximum level spell slot available to be cast of that arcane school.</text>
+                <text>Number        	    Spell Level</text>
+                <text> Ace                    Cantrip</text>
+                <text> Two                     1st</text>
+                <text> Three        	       2nd</text>
+                <text> Four                    3rd</text>
+                <text> Five and Knight         4th</text>
+                <text> Six                     5th</text>
+                <text> Seven                   6th</text>
+                <text> Eight                   7th</text>
+                <text> Nine                    8th</text>
+                <text> Ten, Queen and King     9th</text>
+                <text />
+                <text>Suit                      Arcane School</text>
+                <text>Pentecles         Conjuration and Transmutation</text>
+                <text>Cups                 Enchantment and Illusion</text>
+                <text>Swords               Evocation and Necromancy</text>
+                <text>Wands                Abjuration and Divination</text>
+            </feature>
+            <feature> 
+                <name>Recalibrate Intentions</name>
+                <text>You have learned to regain some of your magical energy by resetting your intentions. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your tarot mage level (rounded up) and none of the slots can be 6th level or higher</text>
+                <text>For example, if you're a 4th-level tarot mage, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.</text>
+            </feature>
+        </autolevel>
+    </class>
+</compendium> 
